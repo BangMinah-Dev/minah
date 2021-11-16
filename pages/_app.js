@@ -1,6 +1,6 @@
 import AppLayout from '../src/component/layout/layout'
-import '../styles/globals.css'
 import 'antd/dist/antd.css'
+import '../styles/globals.css'
 
 
 function MinahApp({ Component, pageProps }) {

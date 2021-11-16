@@ -14,3 +14,18 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.ant-layout-header{
+  height: 45px !important;
+  line-height: 45px !important;
+  padding-right: 0px !important;
+}
+
+.ant-layout-header .ant-menu-overflow{
+  justify-content: end;
+}
+
+.demoPage{
+  border: 1px solid teal;
+  padding: 5px;
+}
